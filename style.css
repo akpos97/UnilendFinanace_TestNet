@@ -32,7 +32,7 @@ body {
 
 
  .dark{
-   color: rgb(55, 54, 54) !important;
+   color: rgb(79, 79, 79) !important;
    font-weight: 500;
  }
 
@@ -66,9 +66,10 @@ body {
 
 
 
-.center {
+.center-image {
    text-align: center;
    margin-top: 120px;
+
 }
 
 
@@ -79,6 +80,6 @@ body {
 }
 
 
-.margin-top{
-   margin-top: -10px;
+.akp{
+   margin-top: -1px;
 }
